@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">Computer Engineering student at Insper</h3>
 
-- 🔭 I’m currently working on **Bots with**
+- 🔭 I’m currently working on **Bots with Artificial Intelligence**
 
-- 🌱 I’m currently learning **Artificial Inteligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/diogo-duarte-31886328a/ </h3>
 <p align="left">
